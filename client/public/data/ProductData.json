@@ -1,0 +1,84 @@
+{
+	"Products": [{
+			"Id": "1",
+			"Title": "Abyssinian",
+			"Breed": "Abyssinian",
+			"Description": "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
+			"ImageUrl": "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg",
+			"OrgPrice": 7,
+			"Price": 7
+		}, {
+			"Id": "2",
+			"Title": "Aegean",
+			"Breed": "Aegean Cat",
+			"Description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
+			"ImageUrl": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg",
+			"OrgPrice": 100,
+			"Price": 100
+		}, {
+			"Id": "3",
+			"Title": "American Bobtail",
+			"Breed": "American Bobtail",
+			"Description": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
+			"ImageUrl": "https://cdn2.thecatapi.com/images/hBXicehMA.jpg",
+			"OrgPrice": 250,
+			"Price": 250
+		}, {
+			"Id": "4",
+			"Title": "American Curl",
+			"Breed": "American Curl",
+			"Description": "Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations.",
+			"ImageUrl": "https://cdn2.thecatapi.com/images/xnsqonbjW.jpg",
+			"OrgPrice": 300,
+			"Price": 300
+		}, {
+			"Id": "5",
+			"Title": "American Shorthair",
+			"Breed": "American Shorthair",
+			"Description": "The American Shorthair is known for its longevity, robust health, good looks, sweet personality, and amiability with children, dogs, and other pets.",
+			"ImageUrl": "https://cdn2.thecatapi.com/images/JFPROfGtQ.jpg",
+			"OrgPrice": 325,
+			"Price": 325
+		}, {
+			"Id": "6",
+			"Title": "American Wirehair",
+			"Breed": "American Wirehair",
+			"Description": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.",
+			"ImageUrl": "https://cdn2.thecatapi.com/images/8D--jCd21.jpg",
+			"OrgPrice": 500,
+			"Price": 500
+		}, {
+			"Id": "7",
+			"Title": "Arabian Mau",
+			"Breed": "Arabian Mau",
+			"Description": "Arabian Mau cats are social and energetic. Due to their energy levels, these cats do best in homes where their owners will be able to provide them with plenty of playtime, attention and interaction from their owners. These kitties are friendly, intelligent, and adaptable, and will even get along well with other pets and children.",
+			"ImageUrl": "https://cdn2.thecatapi.com/images/k71ULYfRr.jpg",
+			"OrgPrice": 430,
+			"Price": 430
+		}, {
+			"Id": "8",
+			"Title": "Australian Mist",
+			"Breed": "Australian Mist",
+			"Description": "The Australian Mist thrives on human companionship. Tolerant of even the youngest of children, these friendly felines enjoy playing games and being part of the hustle and bustle of a busy household. They make entertaining companions for people of all ages, and are happy to remain indoors between dusk and dawn or to be wholly indoor pets.",
+			"ImageUrl": "https://cdn2.thecatapi.com/images/_6x-3TiCA.jpg",
+			"OrgPrice": 400,
+			"Price": 400
+		}, {
+			"Id": "9",
+			"Title": "Balinese",
+			"Breed": "Balinese",
+			"Description": "Balinese are curious, outgoing, intelligent cats with excellent communication skills. They are known for their chatty personalities and are always eager to tell you their views on life, love, and what you’ve served them for dinner. ",
+			"ImageUrl": "https://cdn2.thecatapi.com/images/13MkvUreZ.jpg",
+			"OrgPrice": 150,
+			"Price": 150
+		}, {
+			"Id": "10",
+			"Title": "Bambino",
+			"Breed": "Bambino",
+			"Description": "The Bambino is a breed of cat that was created as a cross between the Sphynx and the Munchkin breeds. The Bambino cat has short legs, large upright ears, and is usually hairless. They love to be handled and cuddled up on the laps of their family members.",
+			"ImageUrl": "https://cdn2.thecatapi.com/images/5AdhMjeEu.jpg",
+			"OrgPrice": 200,
+			"Price": 200
+		}
+	]
+}
